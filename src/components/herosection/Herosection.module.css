@@ -1,0 +1,40 @@
+.mainsection{
+    width: 100%;
+    background-image: url(https://preview.colorlib.com/theme/florist/img/hero/hero-2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding-left: 30px;
+}
+.textcontainer{
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.textcontainer h5{
+    font-family: Quicksand, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.textcontainer span{
+    font-family: "Libre Baskerville", serif;
+    font-size: 43px;
+    font-weight: 400;
+}
+.btn{
+    height: 45px;
+    background-color: #F45D96;
+    width: 155px;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 15px;
+    font-family: Quicksand, sans-serif;
+    cursor: pointer;
+}
